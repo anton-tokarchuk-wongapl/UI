@@ -1,0 +1,15 @@
+/Users/tony/Projects/ui/unit/bin/Debug/netcoreapp2.0/NUnit3.TestAdapter.dll
+/Users/tony/Projects/ui/unit/bin/Debug/netcoreapp2.0/NUnit3.TestAdapter.pdb
+/Users/tony/Projects/ui/unit/bin/Debug/netcoreapp2.0/nunit.engine.netstandard.dll
+/Users/tony/Projects/ui/unit/bin/Debug/netcoreapp2.0/Mono.Cecil.dll
+/Users/tony/Projects/ui/unit/bin/Debug/netcoreapp2.0/unit.deps.json
+/Users/tony/Projects/ui/unit/bin/Debug/netcoreapp2.0/unit.runtimeconfig.json
+/Users/tony/Projects/ui/unit/bin/Debug/netcoreapp2.0/unit.runtimeconfig.dev.json
+/Users/tony/Projects/ui/unit/bin/Debug/netcoreapp2.0/unit.dll
+/Users/tony/Projects/ui/unit/bin/Debug/netcoreapp2.0/unit.pdb
+/Users/tony/Projects/ui/unit/obj/Debug/netcoreapp2.0/unit.csprojAssemblyReference.cache
+/Users/tony/Projects/ui/unit/obj/Debug/netcoreapp2.0/unit.csproj.CoreCompileInputs.cache
+/Users/tony/Projects/ui/unit/obj/Debug/netcoreapp2.0/unit.AssemblyInfoInputs.cache
+/Users/tony/Projects/ui/unit/obj/Debug/netcoreapp2.0/unit.AssemblyInfo.cs
+/Users/tony/Projects/ui/unit/obj/Debug/netcoreapp2.0/unit.dll
+/Users/tony/Projects/ui/unit/obj/Debug/netcoreapp2.0/unit.pdb
