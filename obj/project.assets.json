@@ -5660,11 +5660,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "/Users/tony/Projects/ui/unit/unit.csproj",
+      "projectUniqueName": "/Users/tony/Projects/ui/UI/unit.csproj",
       "projectName": "unit",
-      "projectPath": "/Users/tony/Projects/ui/unit/unit.csproj",
+      "projectPath": "/Users/tony/Projects/ui/UI/unit.csproj",
       "packagesPath": "/Users/tony/.nuget/packages/",
-      "outputPath": "/Users/tony/Projects/ui/unit/obj/",
+      "outputPath": "/Users/tony/Projects/ui/UI/obj/",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "/usr/local/share/dotnet/sdk/NuGetFallbackFolder"
